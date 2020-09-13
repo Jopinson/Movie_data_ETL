@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 Config.py
+ratings.csv
 
 # C extensions
 *.so
